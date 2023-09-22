@@ -4,5 +4,9 @@
 
 ###### titulo H6 (el más pequeño)
 
+Segundo repositorio en _cursiva_ de __SMX2__ **23/24**
+Los estilos se pueden **_anidar_**
 
-Segundo repositorio de SMX2 23/24
+Listas ordenadas
+1. Primer elemento de la lista
+2. Segundo elemento de la lista
