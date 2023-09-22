@@ -26,7 +26,7 @@ Esto es un parafo iwaodfjanowajiajfnabeuifgiuae fijes equ biufaeuf uiaefubaiaefb
 
 soifhgesioghuersiofhioshfiowehfuieshf uis hueshgiuf hesaiuf gifgiufgrseiufjafiogsjdogfishdoifedf iooi hfsieudh fiose hfioeah foiahfioaehf eaohfoaeihfuaehfoihsiodhsaioffrosgkjsgopjesgfiosejgfiojsegoieshgsriuehgrsieghsduhgsuehgseughsegoihnsirhgiorhgioshgiosehfsiohgseioghseighrseioghsdgishfgkdsngsiongseiohgsioehgseiogjseiojgseoigjesioghseioghsgioeshgiosefiosesiogseiogsjigosejgiosehgioesghsieoghsioghseiofhseifhsegihsegiosehgioshgiose o iseg oi se oiuhse oesgshegieshgioesh.
 
-``
+```
 <html>
     <head>
     <head>
@@ -34,5 +34,6 @@ soifhgesioghuersiofhioshfiowehfuieshf uis hueshgiuf hesaiuf gifgiufgrseiufjafiog
         <p> Esto es un código en HTML </p>
     <body>
 </html>
-``
+```
+
 [link](https://www.fje.edu/es/fje "Enlace a la web del cole")
