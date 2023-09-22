@@ -37,3 +37,5 @@ soifhgesioghuersiofhioshfiowehfuieshf uis hueshgiuf hesaiuf gifgiufgrseiufjafiog
 ```
 
 [link](https://www.fje.edu/es/fje "Enlace a la web del cole")
+
+![Imagen de Ferran Torres](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/08/21/16926132971375.jpg "Ferran Torres")
